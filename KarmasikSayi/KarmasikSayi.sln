@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarmasikSayi", "KarmasikSayi.csproj", "{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dll_makale", "..\dll_makale\dll_makale.csproj", "{BB67B501-1F27-40DA-8A1D-DD142FF524FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Debug|Default.Build.0 = Debug|Any CPU
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Release|Default.ActiveCfg = Release|Any CPU
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Release|Default.Build.0 = Release|Any CPU
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Debug|Default.Build.0 = Debug|Any CPU
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Release|Default.ActiveCfg = Release|Any CPU
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAC068EA-5C51-4FCD-BED4-0A11EC45017B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarmasikSayi", "KarmasikSayi.csproj", "{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dll_makale", "..\dll_makale\dll_makale.csproj", "{BB67B501-1F27-40DA-8A1D-DD142FF524FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Debug.ActiveCfg = Debug|.NET
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Debug.Build.0 = Debug|.NET
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Release.ActiveCfg = Release|.NET
+		{C12E6DCB-620D-4CDB-A536-55FCEB0B5B5C}.Release.Build.0 = Release|.NET
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Debug.ActiveCfg = Debug|.NET
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Debug.Build.0 = Debug|.NET
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Release.ActiveCfg = Release|.NET
+		{BB67B501-1F27-40DA-8A1D-DD142FF524FE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
